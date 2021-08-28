@@ -1,0 +1,71 @@
+
+
+body {
+
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+h1 {
+
+	color: black;
+	font-family: 'Dancing Script', cursive;
+}
+
+li {
+
+	color: #717B7B;
+	font-family: 'Dancing Script', cursive;
+}
+
+header {
+  display: flex; 
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+
+}
+
+img {
+	width: 670px;
+}
+
+p {
+	color: black;
+}
+nav.menu ul li.btn a{
+	color : white;
+	text-decoration: none;
+}
+
+nav.menu ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	background-color: black;
+	padding: 10px;
+
+}
+
+a{
+	color : #688893;
+}
+
+nav.menu ul li.btn:hover a{
+
+	background-color: white;
+	color: black;
+	transition: 1s all;
+
+}
+ footer {
+ background-color: #C4C4C4;
+ }
+
+ p.a {
+ 	color: black;
+ }
+
+ input.date1 {
+ 	border-right: 500px;
+ }
+
